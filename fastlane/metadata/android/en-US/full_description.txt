@@ -1,0 +1,35 @@
+Filesverse reimagines file management on Android with a stunning dark-themed interface and powerful intelligent features.
+
+KEY FEATURES:
+
+INTELLIGENT FILE MANAGEMENT
+- Context-based UI that adapts to your usage patterns
+- AI-powered natural language search — just ask to find your files
+- Deep search across your entire device
+
+STORAGE INSIGHTS
+- Beautiful visual usage maps by file type
+- Smart recommendations for freeing up space
+- Duplicate file detection and removal
+
+PRIVACY & SECURITY (VISOR)
+- Biometric protection for sensitive files
+- Hidden thumbnails for protected media
+- Encrypted vault for your private documents
+
+CLOUD INTEGRATION
+- VikingFile upload with progress tracking
+- Google Drive sync and management
+- Multi-cloud support (Dropbox, OneDrive, MEGA, Yandex.Disk)
+
+SMART ARCHIVE
+- Auto-archive old files to free space
+- Cloud archive for infrequently used files
+- One-tap restore from archive
+
+DESIGN
+- Gorgeous cosmic dark theme
+- Material Design 3 with smooth animations
+- Adaptive layouts for all screen sizes
+
+Built with Kotlin and Jetpack Compose for the best possible Android experience.

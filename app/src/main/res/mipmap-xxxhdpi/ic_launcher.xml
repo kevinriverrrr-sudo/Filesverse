@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1E1E35"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <!-- Inner gradient circle -->
+    <path
+        android:fillColor="#252540"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+    <!-- File shape -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M38,28h18l14,14v28c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V32c0,-2.2 1.8,-4 4,-4z" />
+    <!-- File fold -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M56,28v14h14z" />
+    <!-- Infinity/verse symbol -->
+    <path
+        android:fillColor="#06B6D4"
+        android:fillAlpha="0.9"
+        android:pathData="M42,48c-3.3,0 -6,2.7 -6,6s2.7,6 6,6 6,-2.7 6,-6 -2.7,-6 -6,-6zM42,56c-1.1,0 -2,-0.9 -2,-2s0.9,-2 2,-2 2,0.9 2,2 -0.9,2 -2,2z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:fillAlpha="0.9"
+        android:pathData="M54,48c-1,0 -1.9,0.3 -2.7,0.8l1.2,1.6c0.5,-0.3 1,-0.4 1.5,-0.4 1.1,0 2,0.9 2,2s-0.9,2 -2,2c-0.5,0 -1,-0.2 -1.4,-0.5l-1.2,1.6c0.7,0.6 1.7,0.9 2.6,0.9 3.3,0 6,-2.7 6,-6s-2.7,-6 -6,-6z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:fillAlpha="0.9"
+        android:pathData="M48,48c-1,-1.5 -2.5,-2.5 -4.3,-2.8l-0.3,2c1.2,0.2 2.3,0.9 3,1.9l-1.2,1.6c-0.7,-1 -1.8,-1.7 -3,-1.9l0.3,-2c-1.8,0.3 -3.3,1.3 -4.3,2.8" />
+    <!-- Accent dot -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M68,36m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>
